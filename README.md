@@ -2,6 +2,8 @@
 
 A web-based chatbot application that helps manage your Google Calendar through natural language commands. Built with Flask, LangChain, and Composio tools.
 
+![image](https://github.com/user-attachments/assets/4216b5da-370b-40ff-a167-e3c413d79fcb)
+
 ## Features
 
 - Schedule meetings and events
