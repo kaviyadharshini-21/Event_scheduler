@@ -1,0 +1,6 @@
+flask==3.0.2
+langchain==0.1.12
+langchain-groq==0.0.2
+composio-langchain==0.0.1
+python-dotenv==1.0.1
+flask-cors==4.0.0
